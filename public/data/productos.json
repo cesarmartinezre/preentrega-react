@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "nombre": "Honda Gold Wing Tour 2024",
+        "categoria": "Tourer",
+        "stock": 5,
+        "cilindraje": "1833 cc",
+        "precio": 29.999,
+        "Imagen": "img/Honda Gold Wing Tour 2024.webp",
+        "descripcion": "La completa lista de especificaciones incluye DCT de 7 velocidades, una pantalla TFT de 7 pulgadas, navegación con girocompás, Apple CarPlay™, Android Auto™, parabrisas eléctrico, activación por Smart Key, 4 modos de conducción, HSTC y Asistente de Arranque en Pendiente, reafirmando su estatus de abanderada de la nueva tecnología."
+    },
+    {
+        "id": 2,
+        "nombre": "BMW M 1000 XR 2024",
+        "categoria": "Tourer",
+        "stock": 3,
+        "cilindraje": "999 cc",
+        "precio": 24.2,
+        "Imagen": "img/BMW-M-1000-XR-2024.jpg",
+        "descripcion":"Esta M 1000 XR es una moto voluminosa, con asiento a 850 mm de suelo y un frontal musculoso y donde las alas aportan carga extra a alta velocidad. Una velocidad muy por encima de los límites legales en autopista en nuestro país y que tan solo en la primera relación de cambio ya se supera con facilidad"
+    },
+    {
+        "id": 3,
+        "nombre": "KTM 690 Enduro R 2023",
+        "categoria": "Enduro",
+        "stock": 10,
+        "cilindraje": "690 cc",
+        "precio": 12.249,
+        "Imagen": "img/KTM 690 Enduro R 2023.jpg",
+        "descripcion": "Motor monocilíndrico LC4 con inyección electrónica de combustible, tecnología ride-by-wire, doble eje balanceador, embrague antirrebote PASC y transmisión de seis velocidades. Asiento de baja altura (910 mm) Suspensión ajustable WP XPLOR con 250 mm de recorrido"
+    },
+    {
+        "id": 4,
+        "nombre": "GasGas EC 200 2019",
+        "categoria": "Enduro",
+        "stock": 6,
+        "cilindraje": "19940 cc",
+        "precio": 7.499,
+        "Imagen": "img/GasGas EC 200 2019.jpg",
+        "descripcion": "Se trata de una moto de enduro que cubre todo tipo de exigencias y de estilos de pilotaje, completamente rediseñada en chasis, motor, suspensiones o geometría. El chasis es de tipo espina central, bastante ligero gracias a contar con un subchasis de aluminio, lo mismo que el basculante."
+    },
+    {
+        "id": 5,
+        "nombre": "Yamaha TMAX 2024",
+        "categoria": "Maxi scooter",
+        "stock": 5,
+        "cilindraje": "562 cc",
+        "precio": 14.099,
+        "Imagen": "img/Yamaha TMAX 2024.jpg",
+        "descripcion": "El potente motor de 560 cc cuenta con un diseño único y compacto incluye un cigüeñal calado a 360 grados con un pistón equilibrador alternativo horizontal para lograr un rendimiento enormemente deportivo, además de un sistema de transmisión CVT muy eficiente para conseguir un funcionamiento asombrosamente suave"
+    },
+    {
+        "id": 6,
+        "nombre": "Piaggio MP3 530 Exclusive 2023",
+        "categoria": "Maxi scooter",
+        "stock": 1,
+        "cilindraje": "530 cc",
+        "precio": 12.999,
+        "Imagen": "img/Piaggio MP3 530 Exclusive 2023.webp",
+        "descripcion": "El nuevo MP3 530 HPE Exclusive hace honor a su nombre. El vehículo de tres ruedas más avanzado jamás producido por Piaggio, cuenta con un motor de alto rendimiento Euro 5 de 530 cc, control de crucero, marcha atrás, función de cámara trasera y sistema de información de ángulo muerto."
+    },
+    {
+        "id": 7,
+        "nombre": "Honda X-ADV 2024",
+        "categoria": "Maxi scooter",
+        "stock": 4,
+        "cilindraje": "745 cc",
+        "precio": 13.05,
+        "Imagen": "img/Honda X-ADV 2024.jpg",
+        "descripcion": "Motor bicilíndrico paralelo de 8 válvulas y 745 cc más potente. 69 Nm de par con una potencia punta de 43,1 kW; la X-ADV puede pasar de la autopista a la pista en un santiamén y el motor se ajusta para ofrecer una respuesta inmediata. También tienes un 600 rpm extra para jugar antes de llegar a la línea roja."
+    },
+    {
+        "id": 8,
+        "nombre": "Triumph Tiger 1200 GT Pro 2024",
+        "categoria": "Deportivas",
+        "stock": 2,
+        "cilindraje": "1160 cc",
+        "precio": 22.845,
+        "Imagen": "img/Triumph Tiger 1200 GT Pro 2024.jpg",
+        "descripcion": "La Tiger 1200 GT Pro monta un motor tricilíndrico de 1.160 cc, con una potencia de 150 CV -antes 141 CV- y 130 Nm de par. Su configuración T-Plane hace de ella una moto ideal para aprovechar todo su potencial a bajo y medio régimen, además de ofrecer un sonido muy personal."
+    }
+]

@@ -1,0 +1,26 @@
+
+.itemproducto{
+    width: 300px;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    margin-top: 20px;
+    transition: box-shadow 0.3 ease-in-out;
+    text-align: center;
+    background-color: #fff
+}
+
+.itemproducto:hover{
+    box-shadow: 5px 5px 20px rgba(0,0,0,0.4);
+    transform: translateY(-3%);
+}
+
+.itemproducto * {
+    margin: 4px;
+}
+
+.itemproducto img{
+    width: 100%;
+    width": 100px;
+    height: 60px;
+}

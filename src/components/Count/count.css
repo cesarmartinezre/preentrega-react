@@ -1,0 +1,11 @@
+.Contador{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    background-color: red;
+    align-items: center;
+}
+.Contadorcolor{
+    color: white;
+    font-weight: 900;
+}

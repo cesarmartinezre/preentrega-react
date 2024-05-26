@@ -1,0 +1,30 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&display=swap');
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: Open Sans;
+    
+}
+.container{
+    display: flex;
+    background-color: aquamarine;
+    align-items: center;
+    justify-content: space-around;
+    height: 80px;
+    padding: 0 2rem;
+    
+   
+}
+ul Link{
+    color: black;
+    margin: 0 2rem;
+    text-decoration: none; 
+    
+}
+
+ul Link:hover{
+    color: #e4fff9;
+
+}
