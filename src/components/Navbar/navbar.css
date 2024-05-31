@@ -17,14 +17,14 @@
     
    
 }
-ul Link{
+ul li{
     color: black;
     margin: 0 2rem;
     text-decoration: none; 
     
 }
 
-ul Link:hover{
+ul li:hover{
     color: #e4fff9;
 
 }
